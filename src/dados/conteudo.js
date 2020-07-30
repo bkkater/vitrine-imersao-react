@@ -299,4 +299,18 @@ export default [
       'séries',
     ],
   },
+  {
+    nome: 'Bianca Medeiros',
+    foto: 'https://avatars3.githubusercontent.com/u/64504906?s=460&u=e178721878348b8bb269d5eca76ed2dac78e591c&v=4',
+    nomeDoProjeto: 'DrumFlix',
+    url: 'https://drumflix.vercel.app/',
+    tags: [
+      'música',
+      'bateria',
+      'instrumento',
+      'hobbie',
+      'treinamento',
+      'drum'
+    ],
+  },
 ];
